@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<arvutid>
+	<arvuti>
+		<nimetus>Lauaarvuti</nimetus>
+		<hind>2500 eur</hind>
+		<firma>Apple</firma>
+		<lisad>
+			<monitor>
+				<nimetus>Suur monitor</nimetus>
+				<hind>1000 eur</hind>
+			</monitor>
+			<hiir>
+				<nimetus>Apple hiir</nimetus>
+			</hiir>
+		</lisad>
+	</arvuti>
+	<arvuti>
+		<nimetus>Tahvliarvuti</nimetus>
+		<hind>300 eur</hind>
+		<firma>Apple</firma>
+		<lisad>
+			<monitor>
+				<nimetus>Väike monitor</nimetus>
+				<hind>150 eur</hind>
+			</monitor>
+			<hiir>
+				<nimetus>Apple hiir</nimetus>
+			</hiir>
+		</lisad>
+	</arvuti>
+	<arvuti>
+		<nimetus>Sülearvuti</nimetus>
+		<hind>1200 eur</hind>
+		<firma>Apple</firma>
+		<lisad>
+			<monitor>
+				<nimetus>Keskmine monitor</nimetus>
+				<hind>280 eur</hind>
+			</monitor>
+			<hiir>
+				<nimetus>Apple hiir</nimetus>
+			</hiir>
+		</lisad>
+	</arvuti>
+</arvutid>
+
